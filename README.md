@@ -110,9 +110,9 @@ Georgia Southern University                  │  Research Assistant, ML & Data 
 
 <div align="center">
 
-![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifme071&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifme071&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifme071&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifme071&layout=compact&hide_border=true&hide=html,javascript,java,tsql&langs_count=6)
 
 </div>
 
