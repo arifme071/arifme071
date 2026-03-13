@@ -35,9 +35,8 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier 2024 | 97% train position detection rate |
 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *Journal of Applied Remote Sensing*, SPIE 2024 | GRU model: 94% detection rate |
 | [Hidden Markov Chain-Reinforcement Learning(HMM-RL) for WAAM intelligent control](https://link.springer.com) | *Springer* 2026-Under Review | HMM + RL pipeline on live manufacturing data |
-| [AI-Guided Optimization of Polymer Film Synthesis ML Surrogates and Multi-Objective
-Design](https://link.springer.com) | *Springer* 2026, Under Review | HMM + RL pipeline on live manufacturing data |
-| A Review of DAS Applications for Railroad CM (https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *ScienceDirect-Mechanical Systems and Signal Processing* | Systematic review, widely cited |
+| [AI-Guided Optimization of Polymer Film Synthesis ML Surrogates and Multi-Objective Design](https://link.springer.com) | *Springer* 2026, Under Review | HMM + RL pipeline on live manufacturing data |
+| [A Review of DAS Applications for Railroad Condition Monitoring] (https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *ScienceDirect-Mechanical Systems and Signal Processing* | Systematic review, widely cited |
 
 📚 Full publication list → [Google Scholar](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
 
