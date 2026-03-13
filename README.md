@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an ML engineer and AI researcher with deep expertise in **anomaly detection**, **predictive maintenance**, and **generative AI systems**. I hold an MSc in Applied Engineering from Georgia Southern University and have been admitted to Georgia Tech's OMSCS (MS in Computer Science) program starting Fall 2026.
+I'm an ML engineer and AI researcher with deep expertise in **anomaly detection**, **condition monitoring**, **predictive maintenance**, and **generative AI systems**. I hold an MSc in Applied Engineering from Georgia Southern University and have been admitted to Georgia Tech's OMSCS (MS in Computer Science) program starting Fall 2026.
 
 My work spans the full ML lifecycle — from publishing peer-reviewed research to deploying production models on real-world industrial datasets. I've built systems that are in active use at railroad operations, manufacturing facilities, and cross-functional engineering teams.
 
@@ -34,8 +34,10 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 |---|---|---|
 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier 2024 | 97% train position detection rate |
 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *Journal of Applied Remote Sensing*, SPIE 2024 | GRU model: 94% detection rate |
-| [AI-Driven Material Design for WAAM](https://link.springer.com) | *Springer* 2026 | HMM + RL pipeline on live manufacturing data |
-| A Review of DAS Applications for Railroad CM | *ASME* | Systematic review, widely cited |
+| [Hidden Markov Chain-Reinforcement Learning(HMM-RL) for WAAM intelligent control](https://link.springer.com) | *Springer* 2026-Under Review | HMM + RL pipeline on live manufacturing data |
+| [AI-Guided Optimization of Polymer Film Synthesis ML Surrogates and Multi-Objective
+Design](https://link.springer.com) | *Springer* 2026, Under Review | HMM + RL pipeline on live manufacturing data |
+| A Review of DAS Applications for Railroad CM (https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *ScienceDirect-Mechanical Systems and Signal Processing* | Systematic review, widely cited |
 
 📚 Full publication list → [Google Scholar](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
 
