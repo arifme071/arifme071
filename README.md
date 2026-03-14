@@ -34,7 +34,7 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 |---|---|---|
 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier 2024 | 97% train position detection rate |
 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *Journal of Applied Remote Sensing*, SPIE 2024 | GRU model: 94% detection rate |
-| [Hidden Markov Chain-RL (HMM-RL) for WAAM Intelligent Control](https://link.springer.com) | *Springer* 2026 — Under Review | 5% material utilization improvement on live WAAM data |
+| [Hidden Markov Chain-RL (HMM-RL) for Intelligent Control of WAAM / Semiconductor](https://link.springer.com) | *Springer* 2026 — Under Review | 5% material utilization improvement on live WAAM data |
 | [AI-Guided Optimization of Polymer Film Synthesis via ML Surrogates](https://link.springer.com) | *Springer* 2026 — Under Review | Multi-objective ML surrogate for polymer design optimization |
 | [A Review of DAS Applications for Railroad Condition Monitoring](https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *Mechanical Systems and Signal Processing*, Elsevier | Systematic review, widely cited |
 
@@ -92,7 +92,7 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 > `Python` `Deep Learning` `Signal Processing` `GRU` `Distributed Sensing`
 
 **[waam-hmm-rl-optimizer](https://github.com/arifme071)** *(coming soon)*
-> Hidden Markov Model + Reinforcement Learning pipeline for material design optimization in Wire Arc Additive Manufacturing (WAAM). Deployed under Georgia-AIM grant at Georgia Tech.
+> Hidden Markov Model + Reinforcement Learning pipeline for material design optimization in Wire Arc Additive Manufacturing (WAAM) / Semiconductor manufacturing. Deployed under Georgia-AIM grant at Georgia Tech.
 > `Python` `Reinforcement Learning` `HMM` `Manufacturing AI` `MLOps`
 
 ---
