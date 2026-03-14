@@ -83,7 +83,7 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 
 > **Note:** Code repositories for published papers are being organized and released. Links will be updated as repos go live.
 
-**[railroad-anomaly-detection-cnn-lstm](https://github.com/arifme071/railroad-anomaly-detection-cnn-lstm)** *(Added to the repositories)*
+**[railroad-anomaly-detection-cnn-lstm](https://github.com/arifme071/railroad-anomaly-detection-cnn-lstm)**
 > Hybrid CNN-LSTM with sliding window for railroad condition monitoring via distributed acoustic sensing (DAS). Achieves 97% detection rate on HTL fiber-optic data from AAR/TTCI, Pueblo CO.
 > `Python` `TensorFlow` `LSTM` `CNN` `Time-Series` `Anomaly Detection`
 
