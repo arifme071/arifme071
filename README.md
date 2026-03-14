@@ -123,7 +123,7 @@ Georgia Southern University                  │  Research Assistant, ML & Data 
 
 - 🏭 AI-driven material design prototype for WAAM manufacturing (Georgia Tech / Georgia-AIM)
 - 🤖 LLM + RAG pipeline for domain-specific engineering knowledge retrieval
-- 📊 Open-sourcing paper code for CNN-LSTM railroad anomaly detection
+- 📊 Open-sourcing paper code for HMM-RL Intelligent Control in WAAM / Semiconductor Industry.
 - 🎓 Preparing for Georgia Tech OMSCS — Fall 2026
 
 ---
