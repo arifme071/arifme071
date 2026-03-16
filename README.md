@@ -123,6 +123,7 @@ Georgia Southern University                  │  Research Assistant, ML & Data 
 
 - 🏭 AI-driven material design prototype for WAAM manufacturing (Georgia Tech / Georgia-AIM)
 - 🤖 [LLM + RAG pipeline for domain-specific Engineering Knowledge Assistant](https://huggingface.co/spaces/arifme071/engineering-knowledge-rag) — Live RAG demo · FAISS · SentenceTransformers · Streamlit
+- 🤗 [railroad-engineering-bert](https://huggingface.co/arifme071/railroad-engineering-bert) — Fine-tuned BERT · Railroad condition classification · Live on HuggingFace Hub
 - 📊 Open-sourcing paper code for HMM-RL Intelligent Control in WAAM / Semiconductor Industry.
 - 🎓 Preparing for Georgia Tech OMSCS — Fall 2026
 
