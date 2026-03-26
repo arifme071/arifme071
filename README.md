@@ -5,7 +5,7 @@
 
 *Building production ML systems at the intersection of AI, manufacturing, and transportation*
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-184%2B_Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-200%2B_Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marahman--gsu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marahman-gsu/)
 [![Email](https://img.shields.io/badge/Email-arifme071%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arifme071@gmail.com)
 [![Location](https://img.shields.io/badge/Atlanta%2C_GA-US_Work_Authorized-34A853?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -23,7 +23,7 @@ My work spans the full ML lifecycle — from publishing peer-reviewed research t
 - 🔬 **PIN Fellow (AI in Manufacturing)** at Georgia Tech under the Georgia-AIM grant
 - 🚂 Former **Data Analyst** at Norfolk Southern Corporation — GIS dashboards adopted company-wide
 - 📄 **7 peer-reviewed papers** in ASME, Springer, SPIE, and Elsevier journals
-- 📈 **184+ citations** on Google Scholar across rail safety and AI/ML domains
+- 📈 **200+ citations** on Google Scholar across rail safety and AI/ML domains
 - 🎓 **Admitted: Georgia Tech OMSCS** (Computer Science) — Fall 2026
 
 ---
