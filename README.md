@@ -90,7 +90,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ### 🏭 Manufacturing & Industrial AI
 
-**[`warehouse-visual-intelligence-Google-and-AWS-cloud`](https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud)**
+**[`warehouse-visual-intelligence`](https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud)**
 > Production multi-agent AI system for real-time warehouse monitoring, safety violation detection, layout optimization, and cost reduction. A 5-agent pipeline (Vision → Layout → Anomaly → Cost → Orchestrator) processes images via YOLOv8 + GCP Vision API and outputs **$/day cost impact** per detected inefficiency. FastAPI backend, Streamlit dashboard, GitHub Actions CI/CD.  
 > `Python` `YOLOv8` `CrewAI` `LangChain` `Google Cloud Vision` `GCS` `FastAPI` `Streamlit` `Multi-Agent` `Computer Vision`
 
