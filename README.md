@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-I'm an **ML Engineer and AI Researcher** with 5+ years of experience building and deploying production-grade machine learning systems on real industrial datasets. My work spans the full ML lifecycle — from hypothesis and research to peer-reviewed publication and live deployment.
+I'm an **ML Engineer and AI Researcher** with 3+ years of experience building and deploying production-grade machine learning systems on real industrial datasets. My work spans the full ML lifecycle — from hypothesis and research to peer-reviewed publication and live deployment.
 
 Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-driven manufacturing optimization pipelines. Previously at **Norfolk Southern Corporation**, I built GIS-enabled analytics dashboards adopted company-wide. I hold an **MSc in Applied Engineering** from Georgia Southern University and have been admitted to **Georgia Tech's OMSCS (MS in Computer Science)** starting Fall 2026.
 
@@ -144,7 +144,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 | Year | Title | Venue | Metric |
 |------|-------|--------|--------|
-| 2026 | AI-Driven Material Design for WAAM (HMM-RL) | *Springer* | HMM + RL — 5% material utilization gain |
+| 2026 | AI-Driven(HMM-RL) decision support system for WAAM  | *Springer* | HMM + RL — 5% material utilization gain |
 | 2026 | AI-Guided Polymer Film Synthesis Optimization | *Springer* | Manufacturing quality improvement |
 | 2024 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier | 97% detection rate |
 | 2024 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *SPIE Journal of Applied Remote Sensing* | GRU model: 94% detection |
@@ -189,9 +189,6 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 - 🏗️ **Warehouse Visual Intelligence** — Extending with real-time RTSP camera feed + BigQuery analytics trend dashboard
 - 🔬 **CV Defect Detection** — Fine-tuning PPE detection model; Vertex AI deployment pipeline
 - 🤖 **LLM Fine-tuning** — Scaling LoRA Mistral-7B training dataset; evaluating RAG vs fine-tuned generation
-- 📂 **Open-sourcing paper code** — CNN-LSTM railroad anomaly detection (AAR/TTCI datasets)
-- 🎓 **Preparing for Georgia Tech OMSCS** — Fall 2026 (CS: ML & AI track)
-
 ---
 
 ## 🤝 Let's Connect
