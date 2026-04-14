@@ -25,11 +25,11 @@ I'm an **ML Engineer and AI Researcher** with 5+ years of experience building an
 Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-driven manufacturing optimization pipelines. Previously at **Norfolk Southern Corporation**, I built GIS-enabled analytics dashboards adopted company-wide. I hold an **MSc in Applied Engineering** from Georgia Southern University and have been admitted to **Georgia Tech's OMSCS (MS in Computer Science)** starting Fall 2026.
 
 ```
-🔬  PIN Fellow @ Georgia Tech          →  HMM + RL pipelines for WAAM manufacturing (2025–Present)
-🚂  Data Analyst @ Norfolk Southern    →  GIS dashboards for real-time train health monitoring (2024–2025)
+🔬  PIN Fellow @ Georgia Tech              →  HMM + RL pipelines for WAAM manufacturing (2025–Present)
+🚂  Data Analyst @ Norfolk Southern        →  GIS dashboards for real-time train health monitoring (2024–2025)
 🎓  Research Assistant @ Georgia Southern  →  95% accuracy anomaly detection on live rail datasets (2022–2023)
 📄  7 peer-reviewed papers (ASME, Springer, SPIE, Elsevier) — 200+ citations
-🎓  Admitted: Georgia Tech OMSCS (CS)  →  Fall 2026
+🎓  Admitted: Georgia Tech OMSCS (CS)      →  Fall 2026
 ```
 
 ---
@@ -53,6 +53,8 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B6B?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-6C63FF?style=flat-square)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT-LoRA_%7C_QLoRA-FF6F00?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-4285F4?style=flat-square)
 ![OpenVINO](https://img.shields.io/badge/Intel-OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 ### Cloud & MLOps
@@ -74,15 +76,27 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ## 📌 Featured Projects
 
+### 🤖 Generative AI & LLM Engineering
+
+**[`llm-finetuning-engineering-domain`](https://github.com/arifme071/llm-finetuning-engineering-domain)**
+> Two complementary fine-tuning pipelines on railroad AI and manufacturing domain data. **BERT/RoBERTa classification:** fine-tuned `bert-base-uncased` → **94.2% accuracy**; `roberta-base` → **95.8%** on 4-class DAS signal conditions. **LoRA generation:** Mistral-7B instruction-tuned with only 4.2M trainable params (0.06% of model) using QLoRA 4-bit quantization — ROUGE-L 0.68. Both models published on [HuggingFace Hub →](https://huggingface.co/arifme071)  
+> `Python` `BERT` `RoBERTa` `Mistral-7B` `PEFT` `LoRA` `QLoRA` `Hugging Face Transformers` `NLP` `Jupyter Notebook`
+
+**[`engineering-knowledge-rag`](https://github.com/arifme071/engineering-knowledge-rag)** &nbsp;[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/arifme071/engineering-knowledge-rag)
+> Production RAG pipeline grounded in 7 peer-reviewed publications (200+ citations). Retrieves domain knowledge via FAISS + SentenceTransformers (all-MiniLM-L6-v2, 384-dim cosine search), generates citation-backed answers with Flan-T5 — zero hallucination on domain specifics. Live on HuggingFace Spaces (Docker). Supports drop-in PDF ingestion to extend the knowledge base to any domain.  
+> `Python` `RAG` `FAISS` `SentenceTransformers` `Flan-T5` `LangChain` `Streamlit` `Docker` `HuggingFace Spaces`
+
+---
+
 ### 🏭 Manufacturing & Industrial AI
 
 **[`warehouse-visual-intelligence-Google-and-AWS-cloud`](https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud)**
-> Production multi-agent AI system for real-time warehouse monitoring, safety violation detection, layout optimization, and operational cost reduction using computer vision and Google Cloud. A 5-agent pipeline (Vision → Layout → Anomaly → Cost → Orchestrator) processes warehouse images via YOLOv8 + GCP Vision API and estimates **$/day cost impact** per detected inefficiency. Includes FastAPI backend, Streamlit dashboard, and GitHub Actions CI/CD.  
+> Production multi-agent AI system for real-time warehouse monitoring, safety violation detection, layout optimization, and cost reduction. A 5-agent pipeline (Vision → Layout → Anomaly → Cost → Orchestrator) processes images via YOLOv8 + GCP Vision API and outputs **$/day cost impact** per detected inefficiency. FastAPI backend, Streamlit dashboard, GitHub Actions CI/CD.  
 > `Python` `YOLOv8` `CrewAI` `LangChain` `Google Cloud Vision` `GCS` `FastAPI` `Streamlit` `Multi-Agent` `Computer Vision`
 
 **[`cv-manufacturing-defect-detection`](https://github.com/arifme071/cv-manufacturing-defect-detection)**
-> Real-time surface defect detection for steel manufacturing using YOLOv8 trained on the NEU Surface Defect benchmark (1,800 images, 6 defect classes). Achieves **95.2% mAP@50** (YOLOv8m) with **2.1ms inference** on GPU. Exported to **Intel OpenVINO IR format** for 2–4× speedup on Intel hardware — directly relevant to Intel manufacturing AI deployments. Extends published WAAM research (Georgia Tech / Springer 2026). Includes Colab training notebook and Streamlit demo.  
-> `Python` `YOLOv8` `Intel OpenVINO` `Jupyter Notebook` `Streamlit` `Manufacturing QC` `Computer Vision` `Deep Learning`
+> Real-time surface defect detection for steel manufacturing using YOLOv8 on the NEU Surface Defect benchmark (1,800 images, 6 defect classes). Achieves **95.2% mAP@50** with **2.1ms GPU inference**. Exported to **Intel OpenVINO IR format** for 2–4× CPU speedup on Intel hardware. Extends published WAAM research (Georgia Tech / Springer 2026). Includes Colab training notebook and Streamlit demo.  
+> `Python` `YOLOv8` `Intel OpenVINO` `Jupyter Notebook` `Streamlit` `Computer Vision` `Manufacturing QC` `Deep Learning`
 
 **[`waam-hmm-rl-optimizer`](https://github.com/arifme071)**
 > Hidden Markov Model + Reinforcement Learning pipeline for material design optimization in Wire Arc Additive Manufacturing (WAAM). Deployed under Georgia-AIM grant at Georgia Tech. **5% improvement in material utilization**. Peer-reviewed Springer publication (2026).  
@@ -93,6 +107,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 > `T-SQL` `Power BI` `Manufacturing Analytics`
 
 ---
+
 ### 🚂 Railroad & Transportation AI
 
 **[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071)**
@@ -129,11 +144,11 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 | Year | Title | Venue | Metric |
 |------|-------|--------|--------|
-| 2026 | cv-manufacturing-defect-detection  | Paets Quality and material utilization improvement |
-| 2025 | HMM-RL Model for WAAM Manufacturing | *Springer* | HMM + RL — 5% material utilization gain |
+| 2026 | AI-Driven Material Design for WAAM (HMM-RL) | *Springer* | HMM + RL — 5% material utilization gain |
+| 2026 | AI-Guided Polymer Film Synthesis Optimization | *Springer* | Manufacturing quality improvement |
 | 2024 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier | 97% detection rate |
 | 2024 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *SPIE Journal of Applied Remote Sensing* | GRU model: 94% detection |
-| 2023 | A Review of DAS Applications for Railroad CM | *ASME* | Widely cited review |
+| 2023 | [Review of DAS Applications for Railroad CM](https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *Mechanical Systems & Signal Processing*, Elsevier | Widely cited systematic review |
 | 2022–2023 | ML Models for Rail Safety & Anomaly Detection (3 papers) | *ASME / Springer* | 95% accuracy on live HTL datasets |
 
 📚 **[Full publication list on Google Scholar →](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)** &nbsp;|&nbsp; **200+ total citations**
@@ -171,9 +186,11 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 ## 🔭 Currently Working On
 
 - 🏭 **WAAM AI Prototype** — Deploying HMM + RL material design system at Georgia Tech (Georgia-AIM)
-- 🏗️ **Warehouse Visual Intelligence** — Extending multi-agent system with real-time RTSP camera feed + BigQuery analytics
+- 🏗️ **Warehouse Visual Intelligence** — Extending with real-time RTSP camera feed + BigQuery analytics trend dashboard
 - 🔬 **CV Defect Detection** — Fine-tuning PPE detection model; Vertex AI deployment pipeline
-- 🤖 **LLM + RAG Pipeline** — Domain-specific engineering knowledge retrieval system
+- 🤖 **LLM Fine-tuning** — Scaling LoRA Mistral-7B training dataset; evaluating RAG vs fine-tuned generation
+- 📂 **Open-sourcing paper code** — CNN-LSTM railroad anomaly detection (AAR/TTCI datasets)
+- 🎓 **Preparing for Georgia Tech OMSCS** — Fall 2026 (CS: ML & AI track)
 
 ---
 
@@ -188,6 +205,7 @@ I'm actively seeking roles in **ML Engineering**, **AI/Data Science**, **Data En
 [![Email](https://img.shields.io/badge/arifme071%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifme071@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marahman-gsu/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-arifme071-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arifme071)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8766-5351)
 
 *🇺🇸 Authorized to work in the United States — no sponsorship required*
