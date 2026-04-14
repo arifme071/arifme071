@@ -74,22 +74,6 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ## 📌 Featured Projects
 
-### 🚂 Railroad & Transportation AI
-
-**[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071)**
-> Hybrid CNN-LSTM with sliding window for railroad condition monitoring via distributed acoustic sensing (DAS). Achieved **97% train position detection rate** on live HTL fiber-optic datasets from AAR/TTCI, Pueblo CO. Published in *Green Energy & Intelligent Transportation*, Elsevier 2024.  
-> `Python` `TensorFlow` `CNN` `LSTM` `Time-Series` `Anomaly Detection` `Signal Processing`
-
-**[`das-railroad-gru-lstm`](https://github.com/arifme071)**
-> GRU and LSTM models for train presence detection along fiber-optic DAS-instrumented track. **94% detection rate**. Published in *SPIE Journal of Applied Remote Sensing*, 2024.  
-> `Python` `Deep Learning` `GRU` `Distributed Acoustic Sensing` `Rail Safety`
-
-**[`train-scheduling-system`](https://github.com/arifme071/train-scheduling-system)**
-> Java console-based Train Movement & Scheduling System with CRUD operations, station management, scheduling, file I/O, and full OOP architecture.  
-> `Java` `OOP` `File I/O` `Scheduling Algorithms`
-
----
-
 ### 🏭 Manufacturing & Industrial AI
 
 **[`warehouse-visual-intelligence-Google-and-AWS-cloud`](https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud)**
@@ -107,6 +91,21 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 **[`manufacturing-powerbi-demo`](https://github.com/arifme071/manufacturing-powerbi-demo)**
 > Power BI + T-SQL demo for manufacturing analytics and real-time monitoring dashboards.  
 > `T-SQL` `Power BI` `Manufacturing Analytics`
+
+---
+### 🚂 Railroad & Transportation AI
+
+**[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071)**
+> Hybrid CNN-LSTM with sliding window for railroad condition monitoring via distributed acoustic sensing (DAS). Achieved **97% train position detection rate** on live HTL fiber-optic datasets from AAR/TTCI, Pueblo CO. Published in *Green Energy & Intelligent Transportation*, Elsevier 2024.  
+> `Python` `TensorFlow` `CNN` `LSTM` `Time-Series` `Anomaly Detection` `Signal Processing`
+
+**[`das-railroad-gru-lstm`](https://github.com/arifme071)**
+> GRU and LSTM models for train presence detection along fiber-optic DAS-instrumented track. **94% detection rate**. Published in *SPIE Journal of Applied Remote Sensing*, 2024.  
+> `Python` `Deep Learning` `GRU` `Distributed Acoustic Sensing` `Rail Safety`
+
+**[`train-scheduling-system`](https://github.com/arifme071/train-scheduling-system)**
+> Java console-based Train Movement & Scheduling System with CRUD operations, station management, scheduling, file I/O, and full OOP architecture.  
+> `Java` `OOP` `File I/O` `Scheduling Algorithms`
 
 ---
 
@@ -130,7 +129,8 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 | Year | Title | Venue | Metric |
 |------|-------|--------|--------|
-| 2026 | AI-Driven Material Design for WAAM Manufacturing | *Springer* | HMM + RL — 5% material utilization gain |
+| 2026 | cv-manufacturing-defect-detection  | Paets Quality and material utilization improvement |
+| 2025 | HMM-RL Model for WAAM Manufacturing | *Springer* | HMM + RL — 5% material utilization gain |
 | 2024 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier | 97% detection rate |
 | 2024 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *SPIE Journal of Applied Remote Sensing* | GRU model: 94% detection |
 | 2023 | A Review of DAS Applications for Railroad CM | *ASME* | Widely cited review |
@@ -174,8 +174,6 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 - 🏗️ **Warehouse Visual Intelligence** — Extending multi-agent system with real-time RTSP camera feed + BigQuery analytics
 - 🔬 **CV Defect Detection** — Fine-tuning PPE detection model; Vertex AI deployment pipeline
 - 🤖 **LLM + RAG Pipeline** — Domain-specific engineering knowledge retrieval system
-- 📂 **Open-sourcing paper code** — CNN-LSTM railroad anomaly detection (AAR/TTCI datasets)
-- 🎓 **Preparing for Georgia Tech OMSCS** — Fall 2026 (CS: ML & AI track)
 
 ---
 
