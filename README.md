@@ -90,7 +90,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ### 🏭 Manufacturing & Industrial AI
 
-**[`warehouse-visual-intelligence`](https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud)**
+**[`warehouse-visual-intelligence`](https://github.com/arifme071/warehouse-visual-intelligence)**
 > Production multi-agent AI system for real-time warehouse monitoring, safety violation detection, layout optimization, and cost reduction. A 5-agent pipeline (Vision → Layout → Anomaly → Cost → Orchestrator) processes images via YOLOv8 + GCP Vision API and outputs **$/day cost impact** per detected inefficiency. FastAPI backend, Streamlit dashboard, GitHub Actions CI/CD.  
 > `Python` `YOLOv8` `CrewAI` `LangChain` `Google Cloud Vision` `GCS` `FastAPI` `Streamlit` `Multi-Agent` `Computer Vision`
 
@@ -110,7 +110,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ### 🚂 Railroad & Transportation AI
 
-**[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071)**
+**[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071/railroad-anomaly-detection-cnn-lstm)**
 > Hybrid CNN-LSTM with sliding window for railroad condition monitoring via distributed acoustic sensing (DAS). Achieved **97% train position detection rate** on live HTL fiber-optic datasets from AAR/TTCI, Pueblo CO. Published in *Green Energy & Intelligent Transportation*, Elsevier 2024.  
 > `Python` `TensorFlow` `CNN` `LSTM` `Time-Series` `Anomaly Detection` `Signal Processing`
 
