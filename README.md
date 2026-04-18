@@ -11,11 +11,10 @@
 [![Email](https://img.shields.io/badge/Email-arifme071%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifme071@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8766--5351-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8766-5351)
 
-![US Work Authorized](https://img.shields.io/badge/🇺🇸_US_Work_Authorized-No_Sponsorship_Required-34A853?style=flat-square)
+![US Work Authorized](https://img.shields.io/badge/🇺🇸_US_Permanent_Resident_(Green_Card)-34A853?style=flat-square)
 ![Location](https://img.shields.io/badge/📍_Atlanta,_GA-USA-4285F4?style=flat-square)
 
 </div>
-
 ---
 
 ## 👤 About Me
