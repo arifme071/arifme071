@@ -97,9 +97,13 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 > Real-time surface defect detection for steel manufacturing using YOLOv8 on the NEU Surface Defect benchmark (1,800 images, 6 defect classes). Achieves **95.2% mAP@50** with **2.1ms GPU inference**. Exported to **Intel OpenVINO IR format** for 2–4× CPU speedup on Intel hardware. Extends published WAAM research (Georgia Tech / Springer 2026). Includes Colab training notebook and Streamlit demo.  
 > `Python` `YOLOv8` `Intel OpenVINO` `Jupyter Notebook` `Streamlit` `Computer Vision` `Manufacturing QC` `Deep Learning`
 
-**[`waam-hmm-rl-optimizer`](https://github.com/arifme071)**
+**[`waam-hmm-rl-optimizer`](https://github.com/arifme071)- Coming soon**
 > Hidden Markov Model + Reinforcement Learning pipeline for material design optimization in Wire Arc Additive Manufacturing (WAAM). Deployed under Georgia-AIM grant at Georgia Tech. **5% improvement in material utilization**. Peer-reviewed Springer publication (2026).  
 > `Python` `Reinforcement Learning` `HMM` `Manufacturing AI` `MLOps`
+
+**[`ai-polymer-optimisation-mip-v3`](https://github.com/arifme071/ai-polymer-optimisation-mip-v3)**
+> AI-guided optimization of MIP/CIP polymer film synthesis using physics-informed data generation, ML surrogates, and multi-objective Pareto optimization — without wet-lab experiments. Achieves **95.2% capture efficiency** and **1.998 µm thickness** (±0.002 µm of target). Target: JOM / Springer (2026).  
+> `Python` `scikit-learn` `Random Forest` `MLP` `Gaussian Process` `Latin Hypercube` `Pareto Optimization` `Materials AI`
 
 **[`manufacturing-powerbi-demo`](https://github.com/arifme071/manufacturing-powerbi-demo)**
 > Power BI + T-SQL demo for manufacturing analytics and real-time monitoring dashboards.  
