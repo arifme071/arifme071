@@ -2,7 +2,7 @@
 
 # Md Arifur Rahman
 
-### ML Engineer · AI Researcher · Data Scientist · Data Engineer
+### AI/ML Engineer · Data Scientist · Data Engineer
 
 *Deploying production ML systems at the intersection of AI, manufacturing, and transportation*
 
@@ -97,7 +97,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 > Real-time surface defect detection for steel manufacturing using YOLOv8 on the NEU Surface Defect benchmark (1,800 images, 6 defect classes). Achieves **95.2% mAP@50** with **2.1ms GPU inference**. Exported to **Intel OpenVINO IR format** for 2–4× CPU speedup on Intel hardware. Extends published WAAM research (Georgia Tech / Springer 2026). Includes Colab training notebook and Streamlit demo.  
 > `Python` `YOLOv8` `Intel OpenVINO` `Jupyter Notebook` `Streamlit` `Computer Vision` `Manufacturing QC` `Deep Learning`
 
-**[`waam-hmm-rl-optimizer`]** -coming soon
+**[`waam-hmm-rl-optimizer`](https://github.com/arifme071/waam-Hidden-Markov-Model-Reinforcement-Learning)**
 > Hidden Markov Model + Reinforcement Learning pipeline for material design optimization in Wire Arc Additive Manufacturing (WAAM). Deployed under Georgia-AIM grant at Georgia Tech. **5% improvement in material utilization**. Peer-reviewed Springer publication (2026).  
 > `Python` `Reinforcement Learning` `HMM` `Manufacturing AI` `MLOps`
 
