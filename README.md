@@ -1,8 +1,8 @@
 <div align="center">
 
-# Md Arifur Rahman
+# MD ARIFUR RAHMAN
 
-### AI/ML Engineer · Data Scientist · Data Engineer
+### OPERATIONS RESEARCH | AI/ML ENGINEER | DATA SCIENTIST | OPTIMIZATION & DATA SCIENCE
 
 *Deploying production ML systems at the intersection of AI, manufacturing, and transportation*
 
