@@ -19,13 +19,13 @@
 
 ## 👤 About Me
 
-Applied AI/ML Engineer with 10+ years of combined experience across industrial engineering, rail operations, and machine learning systems. My work spans the full ML lifecycle — from peer-reviewed research to production deployment — with a focus on industrial optimization, predictive analytics, and condition monitoring for transportation and manufacturing systems.
+Engineering, Operations Research, AI/ML, and Data Science professional with 10+ years of experience across industrial operations, rail transportation, manufacturing, and applied analytics. I build optimization models, predictive systems, anomaly-detection pipelines, and decision-support tools using Python, SQL, machine learning, cloud platforms, and Docker.
 
-Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-driven manufacturing optimization pipelines. Previously at **Norfolk Southern Corporation**, I built GIS-enabled analytics dashboards adopted company-wide. I hold an **MSc in Applied Engineering** from Georgia Southern University and have been admitted to **Georgia Tech's OMSCS (MS in Computer Science)** starting Fall 2026.
+Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based optimization, multi-objective modeling, and RAG applications. Previously supported operational analytics and railcar asset management at Norfolk Southern and conducted machine-learning research with Georgia Southern University and MxV Rail.
 
 ```
 🔬  PIN Fellow @ Georgia Tech              →  HMM + RL optimization pipelines for manufacturing · RAG-based knowledge systems (2025–Present)
-🚂  Supervisor Associate — Operations Division, Mechanical Maintenance @ Norfolk Southern → Rail equipment management, FRA/49 CFR compliance & real-time asset health monitoring (2024–2025)
+🚂  Supervisor Associate (Analytics and reporting) — Operations Division, Mechanical Maintenance @ Norfolk Southern → Rail equipment management, FRA/49 CFR compliance, real-time asset health monitoring, and operation optimization(2024-2025)
 🎓  Research Assistant @ Georgia Southern  →  95–97% anomaly detection on live rail DAS datasets · AAR/TTCI collaboration (2022–2023)
 📄  7 peer-reviewed papers (ASME, Springer, SPIE, Elsevier) — 200+ citations
 🎯  Admitted: Georgia Tech OMSCS (CS) →  Fall 2026
@@ -196,7 +196,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 
 ## 🤝 Let's Connect
 
-I'm actively seeking roles in **ML Engineering**, **AI/Data Science**, **Data Engineering**, and **AI Research** — particularly in manufacturing, transportation, railway, energy, infrastructure intelligence, or large-scale ML systems.
+I'm actively seeking roles in **Operations Research**, **ML Engineering**, **AI/Data Science**, **Data Engineering**, and **AI Research** — particularly in manufacturing, transportation, railway, energy, infrastructure intelligence, or large-scale ML systems.
 
 > **Open to:** Full-time roles at tech & industrial AI companies.
 
@@ -208,7 +208,7 @@ I'm actively seeking roles in **ML Engineering**, **AI/Data Science**, **Data En
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-arifme071-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arifme071)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8766-5351)
 
-*🇺🇸 Authorized to work in the United States — no sponsorship required*
+*🇺🇸 Authorized to work (permanent resident)in the United States — no sponsorship required*
 
 </div>
 
