@@ -162,7 +162,7 @@ Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based
 
 | Type | Details |
 |------|---------|
-| 🎓 **Georgia Tech OMSCS** | MSc Computer Science — *Admitted, Fall 2026* |
+| 🎓 **Georgia Tech OMSCS** | MSc Computer Science — *2026- 2028* |
 | 🎓 **Georgia Southern University** | MSc Applied Engineering (Advanced Manufacturing) |
 | 🎓 **CUET** | BSc Mechanical Engineering |
 | ☁️ **Google Cloud** | Data Analytics Certificate |
