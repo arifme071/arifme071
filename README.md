@@ -4,14 +4,14 @@
 
 ### OPERATIONS RESEARCH | AI/ML ENGINEER | DATA SCIENTIST | OPTIMIZATION & DATA SCIENCE
 
-*Deploying production ML and optimization systems at the intersection of AI, manufacturing, logistics, and transportation*
+*Deploying production ML and optimization systems at the intersection of AI, logistics, transportation, and manufacturing, *
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-200%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-250%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marahman--gsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marahman-gsu/)
 [![Email](https://img.shields.io/badge/Email-arifme071%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifme071@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8766--5351-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8766-5351)
 
-![US Work Authorized](https://img.shields.io/badge/🇺🇸_US_Permanent_Resident_(Green_Card)-34A853?style=flat-square)
+![US Work Authorized](https://img.shields.io/badge/🇺🇸_US_Permanent_Resident-34A853?style=flat-square)
 ![Location](https://img.shields.io/badge/📍_Atlanta,_GA-USA-4285F4?style=flat-square)
 
 </div>
