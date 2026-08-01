@@ -163,8 +163,8 @@ Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based
 
 | Year | Title | Venue | Metric |
 |------|-------|--------|--------|
-| 2026 | AI-Polymer Film Synthesis Optimization | *Springer* | Bio-Sensor Development for Healthcare and Environmental Impact | (Comming Soon)
-| 2026 | AI-Driven(HMM-RL) decision support system for WAAM  | (https://www.sciencedirect.com/science/article/pii/S1526612526005335) | HMM + RL, WAAM Optimization and Decission Support Model |
+| 2026 | AI-Polymer Film Synthesis Optimization | *EAAI (Under Review)* | Bio-Sensor Development for Healthcare and Environmental Impact | (Comming Soon)
+| 2026 | [AI-Driven(HMM-RL) decision support system for WAAM](https://www.sciencedirect.com/science/article/pii/S1526612526005335) | *Sciencedirect*| HMM + RL, WAAM Optimization and Decission Support Model |
 | 2024 | [CNN-LSTM-SW for Railroad Anomaly Detection via DAS](https://doi.org/10.1016/j.geits.2024.100178) | *Green Energy & Intelligent Transportation*, Elsevier | 97% detection rate |
 | 2024 | [Deep Learning for DAS-based Railroad CM](https://doi.org/10.1117/1.JRS.18.016512) | *SPIE Journal of Applied Remote Sensing* | GRU model: 94% detection |
 | 2023 | [Review of DAS Applications for Railroad CM](https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) | *Mechanical Systems & Signal Processing*, Elsevier | Widely cited systematic review |
@@ -178,7 +178,7 @@ Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based
 
 | Type | Details |
 |------|---------|
-| 🎓 **Georgia Tech OMSCS** | MSc Computer Science (OMSCS, part time) — *2026-2028* |
+| 🎓 **Georgia Tech OMSCS** | MSc Computer Science (part time) — *2026-2028* |
 | 🎓 **Georgia Southern University** | MSc Applied Engineering (Advanced Manufacturing Engineering) |
 | 🎓 **CUET** | BSc Mechanical Engineering |
 | ☁️ **Google Cloud** | Data Analytics Certificate |
