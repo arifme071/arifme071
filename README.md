@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-Operations Research, AI/ML, and Data Science professional with experience across industrial operations, rail transportation, manufacturing, logistics, and applied analytics. I build optimization models (LP/MIP, vehicle routing), predictive systems, anomaly-detection pipelines, and decision-support tools using Python, SQL, Gurobi, OR-Tools, machine learning, cloud platforms, and Docker.
+Operations Research, AI/ML, and Data Science professional with experience across industrial operations, rail transportation, manufacturing, logistics, and applied analytics. I build optimization models (LP/MIP, vehicle routing), predictive systems, anomaly-detection pipelines, and decision-support tools using Python, SQL, Gurobi, CPLEX, SCIP, OR-Tools, machine learning, cloud platforms, and Docker.
 
 Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based optimization, multi-objective modeling, and RAG applications. Previously supported operational analytics and railcar asset management at Norfolk Southern and conducted machine-learning research with Georgia Southern University and MxV Rail.
 
