@@ -91,6 +91,18 @@ Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based
 
 ---
 
+### 🤖 Generative AI & LLM Engineering
+
+**[`llm-finetuning-engineering-domain`](https://github.com/arifme071/llm-finetuning-engineering-domain)**
+> Two complementary fine-tuning pipelines on railroad AI and manufacturing domain data. **BERT/RoBERTa classification:** fine-tuned `bert-base-uncased` → **94.2% accuracy**; `roberta-base` → **95.8%** on 4-class DAS signal conditions. **LoRA generation:** Mistral-7B instruction-tuned with only 4.2M trainable params (0.06% of model) using QLoRA 4-bit quantization — ROUGE-L 0.68. Both models published on [HuggingFace Hub →](https://huggingface.co/arifme071)  
+> `Python` `BERT` `RoBERTa` `Mistral-7B` `PEFT` `LoRA` `QLoRA` `Hugging Face Transformers` `NLP` `Jupyter Notebook`
+
+**[`engineering-knowledge-rag`](https://github.com/arifme071/engineering-knowledge-rag)** &nbsp;[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/arifme071/engineering-knowledge-rag)
+> Production RAG pipeline grounded in 7 peer-reviewed publications (200+ citations). Retrieves domain knowledge via FAISS + SentenceTransformers (all-MiniLM-L6-v2, 384-dim cosine search), generates citation-backed answers with Flan-T5 — zero hallucination on domain specifics. Live on HuggingFace Spaces (Docker). Supports drop-in PDF ingestion to extend the knowledge base to any domain.  
+> `Python` `RAG` `FAISS` `SentenceTransformers` `Flan-T5` `LangChain` `Streamlit` `Docker` `HuggingFace Spaces`
+
+---
+
 ### 🚂 Railroad & Transportation AI
 
 **[`railroad-anomaly-detection-cnn-lstm`](https://github.com/arifme071/railroad-anomaly-detection-cnn-lstm)**
@@ -104,18 +116,6 @@ Currently a Georgia Tech PIN Fellow working on reinforcement learning, HMM-based
 **[`train-scheduling-system`](https://github.com/arifme071/train-scheduling-system)**
 > Java console-based Train Movement & Scheduling System with CRUD operations, station management, scheduling, file I/O, and full OOP architecture.  
 > `Java` `OOP` `File I/O` `Scheduling Algorithms`
-
----
-
-### 🤖 Generative AI & LLM Engineering
-
-**[`llm-finetuning-engineering-domain`](https://github.com/arifme071/llm-finetuning-engineering-domain)**
-> Two complementary fine-tuning pipelines on railroad AI and manufacturing domain data. **BERT/RoBERTa classification:** fine-tuned `bert-base-uncased` → **94.2% accuracy**; `roberta-base` → **95.8%** on 4-class DAS signal conditions. **LoRA generation:** Mistral-7B instruction-tuned with only 4.2M trainable params (0.06% of model) using QLoRA 4-bit quantization — ROUGE-L 0.68. Both models published on [HuggingFace Hub →](https://huggingface.co/arifme071)  
-> `Python` `BERT` `RoBERTa` `Mistral-7B` `PEFT` `LoRA` `QLoRA` `Hugging Face Transformers` `NLP` `Jupyter Notebook`
-
-**[`engineering-knowledge-rag`](https://github.com/arifme071/engineering-knowledge-rag)** &nbsp;[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/arifme071/engineering-knowledge-rag)
-> Production RAG pipeline grounded in 7 peer-reviewed publications (200+ citations). Retrieves domain knowledge via FAISS + SentenceTransformers (all-MiniLM-L6-v2, 384-dim cosine search), generates citation-backed answers with Flan-T5 — zero hallucination on domain specifics. Live on HuggingFace Spaces (Docker). Supports drop-in PDF ingestion to extend the knowledge base to any domain.  
-> `Python` `RAG` `FAISS` `SentenceTransformers` `Flan-T5` `LangChain` `Streamlit` `Docker` `HuggingFace Spaces`
 
 ---
 
