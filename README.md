@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-Applied AI/ML Engineer with 10+ years of combined experience across industrial engineering, rail operations, and machine learning systems. My work spans the full ML lifecycle — from peer-reviewed research to production deployment — with a focus on industrial optimization, predictive analytics, and condition monitoring for transportation and manufacturing systems.
+Applied AI/ML Engineer with combined experience across industrial engineering, rail operations, and machine learning systems. My work spans the full ML lifecycle — from peer-reviewed research to production deployment — with a focus on industrial optimization, predictive analytics, and condition monitoring for transportation and manufacturing systems.
 
 Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-driven manufacturing optimization pipelines. Previously at **Norfolk Southern Corporation**, I built GIS-enabled analytics dashboards adopted company-wide. I hold an **MSc in Applied Engineering** from Georgia Southern University and have been admitted to **Georgia Tech's OMSCS (MS in Computer Science)** starting Fall 2026.
 
@@ -21,7 +21,7 @@ Currently a **PIN Fellow at Georgia Tech** (Georgia-AIM grant), I develop AI-dri
 🚂  Supervisor Associate — Operations Division, Mechanical Maintenance @ Norfolk Southern → Rail equipment management, FRA/49 CFR compliance & real-time asset health monitoring (2024–2025)
 🎓  Research Assistant @ Georgia Southern  →  95–97% anomaly detection on live rail DAS datasets · AAR/TTCI collaboration (2022–2023)
 📄  10 peer-reviewed papers (ASME, Springer, SPIE, Elsevier) — 200+ citations
-🎯  Admitted: Georgia Tech OMSCS (CS) →  Fall 2026
+🎯  Georgia Tech OMSCS (CS) →  Fall 2026
 ```
 
 ---
