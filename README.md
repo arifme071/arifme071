@@ -4,7 +4,7 @@
 
 ### OPERATIONS RESEARCH | AI/ML ENGINEER | DATA SCIENTIST | OPTIMIZATION & DATA SCIENCE
 
-*Deploying production ML and optimization systems at the intersection of AI, logistics, transportation, and manufacturing, *
+*Deploying production ML and optimization systems at the intersection of AI, logistics, transportation, and manufacturing*
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-250%2B_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iafas1MAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marahman--gsu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marahman-gsu/)
